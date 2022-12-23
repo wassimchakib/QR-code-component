@@ -57,7 +57,7 @@ main {
 .container {
   width: 85%;
   margin: 0 auto;
-  max-width: 375px;
+  max-width: 320px;
   min-height: 495px;
   background-color: var(--white);
   border-radius: var(--fs-2);
