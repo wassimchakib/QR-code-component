@@ -61,6 +61,7 @@ main {
   min-height: 495px;
   background-color: var(--white);
   border-radius: var(--fs-2);
+  box-shadow: 3px 3px 15px hsla(225, 15%, 5%, 0.2);
 }
 
 .qrcode__content {
